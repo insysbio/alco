@@ -31,7 +31,8 @@ best F = -63.92
 
 ## Contributors
 
-[Evgeny Metelkin](https://github.com/metelkin) is the author of the Heta-based modeling code.
+- @metelkin
+- @ivborissov
 
 The model and data in the study were reproduced from the published study.
 The authors of the original study are:
