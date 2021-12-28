@@ -12,12 +12,8 @@ include mod3.heta
 
 // exports
 #export { format: JSON, filepath: output };
-
-#export { format: DBSolve, filepath: dbsolve_1, spaceFilter: mod1 };
-#export { format: DBSolve, filepath: dbsolve_2, spaceFilter: mod2 };
-#export { format: DBSolve, filepath: dbsolve_3, spaceFilter: mod3 };
-
-#export { format: SBML, filepath: sbml_1, spaceFilter: mod1 };
+#export { format: DBSolve, filepath: dbsolve};
+#export { format: SBML, filepath: sbml};
 
 //#export { format: Simbio, filepath: simbio };
 //#export { format: Mrgsolve, filepath: mrgsolve };
