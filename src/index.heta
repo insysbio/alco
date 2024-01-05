@@ -2,13 +2,13 @@
   template file for creating platform
 */
 // add qsp units
-include ./qsp-units.heta
+include ./qsp-units.heta;
 
 #setNS { type: abstract };
 
-include mod1.heta
-include mod2.heta
-include mod3.heta
+include mod1.heta;
+include mod2.heta;
+include mod3.heta;
 
 // exports
 #export { format: JSON, filepath: output };

@@ -1,8 +1,8 @@
 {
-  "builderVersion": "^0.6.9",
+  "builderVersion": "^0.7.4",
   "id": "alco",
   "notes": "Simple model of alcohol PK build on published data",
-  "version": "v0.1.1",
+  "version": "v0.1.2",
   "license": "MIT",
   "options": {"unitsCheck": true},
   "importModule": {
