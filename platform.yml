@@ -1,0 +1,21 @@
+{
+  "builderVersion": "^0.9.0",
+  "id": "alco",
+  "notes": "Simple model of alcohol PK build on published data",
+  "version": "v0.1.3",
+  "license": "MIT",
+  "options": {"unitsCheck": true},
+  "importModule": {
+    "type": "heta",
+    "source": "src/index.heta"
+  },
+  "export": [
+    { "format": "JSON", "filepath": "output" },
+    { "format": "DBSolve", "filepath": "dbsolve" },
+    { "format": "SBML", "filepath": "sbml"},
+    # { "format": "Simbio", "filepath": "simbio" },
+    # { "format": "Mrgsolve", "filepath": "mrgsolve" },
+    # { "format": "Matlab", "filepath": "matlab" },
+    # { "format": "Julia", "filepath": "julia" }
+  ]
+}

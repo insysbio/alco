@@ -37,4 +37,3 @@ best F = -63.92
 The model and data in the study were reproduced from the published study.
 The authors of the original study are:
 Mumenthaler MS, Taylor JL, Yesavage JA.
-
